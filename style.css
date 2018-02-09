@@ -1,0 +1,9 @@
+#hero {
+    background-image: url(ant-port.jpg);
+    background-size: cover;
+    margin-top: 25px;
+    height: 1252px;
+    margin-bottom: 95px;
+    position: relative;
+    top: -234px;
+}
