@@ -23,10 +23,13 @@
 }
 
 #navbar {
-    color:white;
+    color: white;
     font-size: 2rem;
+    font-family: 'Acme', sans-serif;
     display: flex;
-    justify-content:space-between;
+    justify-content: space-between;
+    width: 80%;
+    margin: 0 auto;
 }
 
 .inline>li{
