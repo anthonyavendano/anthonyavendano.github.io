@@ -41,3 +41,18 @@ background-image: url(brick-wall.jpg);
     margin-left: auto;
     margin-right: auto;
 }
+
+#navbar a {
+    color:white;
+    font-size: 2rem;
+}
+#navbar {
+    float:left;
+}
+#navbarsExampleDefault  {
+    float: right;
+}
+
+#left-navbar  {
+    float: left;
+}
