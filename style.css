@@ -1,9 +1,42 @@
-#hero {
-    background-image: url(ant-port.jpg);
+/* #hero {
+background-image: url(brick-wall.jpg);
     background-size: cover;
     margin-top: 25px;
     height: 1252px;
     margin-bottom: 95px;
     position: relative;
     top: -234px;
+}
+
+#hero > .inner-hero {
+    background-image: url(brick-background.jpg);
+    background-size: cover;
+    margin-top: 25px;
+    height: 600px;
+    margin-bottom: 95px;
+    position: relative;
+    top: -234px;
+} */
+
+#hero {
+    background-image: url(brick-wall.jpg);
+    background-size: cover;
+    margin-top: 25px;
+    height: 997px;
+    margin-bottom: 95px;
+    position: relative;
+    top: -401px;
+}
+
+#hero > .inner-hero {
+    background-image: url(brick-background.jpg);
+    background-size: cover;
+    margin-top: 25px;
+    height: 1196px;
+    margin-bottom: 95px;
+    position: relative;
+    top: 212px;
+    width: 1424px;
+    margin-left: auto;
+    margin-right: auto;
 }
